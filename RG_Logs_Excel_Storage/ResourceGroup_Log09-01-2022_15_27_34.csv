@@ -1,0 +1,229 @@
+"Authorization","Claims","HttpRequest","Properties","Level","SubmissionTimestamp","EventTimestamp","EventName","Category","ResourceProviderName","OperationName","Status","SubStatus","Caller","Description","Id","EventDataId","CorrelationId","ResourceGroupName","ResourceId","ResourceType","OperationId","SubscriptionId","TenantId"
+"
+Scope     : /subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-3
+Action    : Microsoft.Resources/subscriptions/resourceGroups/write
+Role      : 
+Condition : ","
+aud            : https://management.core.windows.net/
+iss            : https://sts.windows.net/cf9c077a-e632-4207-b15b-38722439b3b3/
+iat            : 1661916708
+nbf            : 1661916708
+exp            : 1661921792
+http://schemas.microsoft.com/claims/authnclassreference: 1
+aio            : AWQAm/8TAAAA66d+KZzOBUELzAvvkTOAXpkwVHSgyq135UHZxTAYkwo1JFqDhvHq3/M9Oz2y/crC+w6V8SSiYGISv7Owfbls6VGH6Hayc3qWcq3xmrzv1yFXh766Z7iYVGOamtVrCVcb
+altsecid       : 1:live.com:0003BFFD03DD187C
+http://schemas.microsoft.com/claims/authnmethodsreferences: pwd,mfa
+appid          : c44b4083-3bb0-49c1-b47d-974e53cbdf3c
+appidacr       : 0
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress: adarshvyas99@gmail.com
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname: vyas
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname: Adarsh
+groups         : 5ad8365e-f9a4-4373-90fe-cf473210831a
+http://schemas.microsoft.com/identity/claims/identityprovider: live.com
+ipaddr         : 122.168.4.110
+name           : Adarsh vyas
+http://schemas.microsoft.com/identity/claims/objectidentifier: c152425a-d477-4707-8dd9-b79514587bb7
+puid           : 100320011B99BEBC
+rh             : 0.AXAAegeczzLmB0KxWzhyJDmzs0ZIf3kAutdPukPawfj2MBNwAEg.
+http://schemas.microsoft.com/identity/claims/scope: user_impersonation
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier: bnbrw7J5hhLxs5Idy-fZzRpSmYDt5rSuADcR1gqcpt8
+http://schemas.microsoft.com/identity/claims/tenantid: cf9c077a-e632-4207-b15b-38722439b3b3
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name: live.com#adarshvyas99@gmail.com
+uti            : 3iULwe1FHUSjMFnjEbo6AA
+ver            : 1.0
+wids           : 62e90394-69f5-4237-9190-012177145e10
+xms_tcdt       : 1614397532","
+ClientId        : 5f1bcb69-e334-4d6b-9eea-511b96881046
+Method          : PUT
+Url             : 
+ClientIpAddress : 122.168.4.110","
+statusCode     : Created
+serviceRequestId: 
+responseBody   : {""id"":""/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-3"",""name"":""test-3"",""location"":""southcentralus"",""tags"":{},""properties"":{""provisioningState"":""Succeeded""}}
+eventCategory  : Administrative
+entity         : /subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-3
+message        : Microsoft.Resources/subscriptions/resourceGroups/write
+hierarchy      : fc446ee6-ef72-455e-8faf-23133a84ac1b","Informational","31-08-2022 04:13:41","31-08-2022 04:12:00","End request","Administrative","Microsoft Resources","Update resource group","Succeeded","Created (HTTP Status Code: 201)","adarshvyas99@gmail.com","","/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-3/events/d4068547-e385-489b-b0ca-8347d389f278/ticks/637975159202399845","d4068547-e385-489b-b0ca-8347d389f278","a2d35311-7c69-4007-97e9-3baa9f6d08f6","test-3","/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-3",,"03ffe4c6-c22f-482f-b7c0-372fd2405054","fc446ee6-ef72-455e-8faf-23133a84ac1b",
+"Authorization","Claims","HttpRequest","Properties","Level","SubmissionTimestamp","EventTimestamp","EventName","Category","ResourceProviderName","OperationName","Status","SubStatus","Caller","Description","Id","EventDataId","CorrelationId","ResourceGroupName","ResourceId","ResourceType","OperationId","SubscriptionId","TenantId"
+"
+Scope     : /subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-2
+Action    : Microsoft.Resources/subscriptions/resourceGroups/write
+Role      : 
+Condition : ","
+aud            : https://management.core.windows.net/
+iss            : https://sts.windows.net/cf9c077a-e632-4207-b15b-38722439b3b3/
+iat            : 1661916708
+nbf            : 1661916708
+exp            : 1661921792
+http://schemas.microsoft.com/claims/authnclassreference: 1
+aio            : AWQAm/8TAAAA66d+KZzOBUELzAvvkTOAXpkwVHSgyq135UHZxTAYkwo1JFqDhvHq3/M9Oz2y/crC+w6V8SSiYGISv7Owfbls6VGH6Hayc3qWcq3xmrzv1yFXh766Z7iYVGOamtVrCVcb
+altsecid       : 1:live.com:0003BFFD03DD187C
+http://schemas.microsoft.com/claims/authnmethodsreferences: pwd,mfa
+appid          : c44b4083-3bb0-49c1-b47d-974e53cbdf3c
+appidacr       : 0
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress: adarshvyas99@gmail.com
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname: vyas
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname: Adarsh
+groups         : 5ad8365e-f9a4-4373-90fe-cf473210831a
+http://schemas.microsoft.com/identity/claims/identityprovider: live.com
+ipaddr         : 122.168.4.110
+name           : Adarsh vyas
+http://schemas.microsoft.com/identity/claims/objectidentifier: c152425a-d477-4707-8dd9-b79514587bb7
+puid           : 100320011B99BEBC
+rh             : 0.AXAAegeczzLmB0KxWzhyJDmzs0ZIf3kAutdPukPawfj2MBNwAEg.
+http://schemas.microsoft.com/identity/claims/scope: user_impersonation
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier: bnbrw7J5hhLxs5Idy-fZzRpSmYDt5rSuADcR1gqcpt8
+http://schemas.microsoft.com/identity/claims/tenantid: cf9c077a-e632-4207-b15b-38722439b3b3
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name: live.com#adarshvyas99@gmail.com
+uti            : 3iULwe1FHUSjMFnjEbo6AA
+ver            : 1.0
+wids           : 62e90394-69f5-4237-9190-012177145e10
+xms_tcdt       : 1614397532","
+ClientId        : 5f1bcb69-e334-4d6b-9eea-511b96881034
+Method          : PUT
+Url             : 
+ClientIpAddress : 122.168.4.110","
+statusCode     : Created
+serviceRequestId: 
+responseBody   : {""id"":""/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-2"",""name"":""test-2"",""location"":""eastus"",""tags"":{},""properties"":{""provisioningState"":""Succeeded""}}
+eventCategory  : Administrative
+entity         : /subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-2
+message        : Microsoft.Resources/subscriptions/resourceGroups/write
+hierarchy      : fc446ee6-ef72-455e-8faf-23133a84ac1b","Informational","31-08-2022 04:12:49","31-08-2022 04:11:33","End request","Administrative","Microsoft Resources","Update resource group","Succeeded","Created (HTTP Status Code: 201)","adarshvyas99@gmail.com","","/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-2/events/5f187484-6583-4eb0-9d2a-393d70ad9737/ticks/637975158933887993","5f187484-6583-4eb0-9d2a-393d70ad9737","5c633096-6add-4823-9a7b-384b3a7d6864","test-2","/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-2",,"473f6574-1fc2-475d-86db-efd84d500e79","fc446ee6-ef72-455e-8faf-23133a84ac1b",
+"Authorization","Claims","HttpRequest","Properties","Level","SubmissionTimestamp","EventTimestamp","EventName","Category","ResourceProviderName","OperationName","Status","SubStatus","Caller","Description","Id","EventDataId","CorrelationId","ResourceGroupName","ResourceId","ResourceType","OperationId","SubscriptionId","TenantId"
+"
+Scope     : /subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.Storage/storageAccounts/csg100320011b99bebc
+Action    : Microsoft.Storage/storageAccounts/listKeys/action
+Role      : 
+Condition : ","
+aud            : https://management.core.windows.net/
+iss            : https://sts.windows.net/cf9c077a-e632-4207-b15b-38722439b3b3/
+iat            : 1662009924
+nbf            : 1662009924
+exp            : 1662013969
+http://schemas.microsoft.com/claims/authnclassreference: 1
+aio            : AWQAm/8TAAAA2W0Zv2BBakcoL3Lkflty31q5020+Hc1URgKYIQVACdN1Pi1uEVQgeuvPkUaOo+dLIPYraR+sPQxtVQrIlaJcUX7yWNjR8wOpz62Zsqn1rlLZtL5CE4plM024f0mdP3wM
+altsecid       : 1:live.com:0003BFFD03DD187C
+http://schemas.microsoft.com/claims/authnmethodsreferences: pwd,mfa
+appid          : c44b4083-3bb0-49c1-b47d-974e53cbdf3c
+appidacr       : 2
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress: adarshvyas99@gmail.com
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname: vyas
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname: Adarsh
+groups         : 5ad8365e-f9a4-4373-90fe-cf473210831a
+http://schemas.microsoft.com/identity/claims/identityprovider: live.com
+ipaddr         : 223.236.76.107
+name           : Adarsh vyas
+http://schemas.microsoft.com/identity/claims/objectidentifier: c152425a-d477-4707-8dd9-b79514587bb7
+puid           : 100320011B99BEBC
+rh             : 0.AXAAegeczzLmB0KxWzhyJDmzs0ZIf3kAutdPukPawfj2MBNwAEg.
+http://schemas.microsoft.com/identity/claims/scope: user_impersonation
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier: bnbrw7J5hhLxs5Idy-fZzRpSmYDt5rSuADcR1gqcpt8
+http://schemas.microsoft.com/identity/claims/tenantid: cf9c077a-e632-4207-b15b-38722439b3b3
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name: live.com#adarshvyas99@gmail.com
+uti            : Cf9K75XorEaAt9suMKtvAA
+ver            : 1.0
+wids           : 62e90394-69f5-4237-9190-012177145e10
+xms_tcdt       : 1614397532","
+ClientId        : 60930f19-f420-4a4f-9708-5bfd4196ffb5
+Method          : POST
+Url             : 
+ClientIpAddress : 20.204.109.168","
+statusCode     : OK
+serviceRequestId: 
+eventCategory  : Administrative
+entity         : /subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.Storage/storageAccounts/csg100320011b99bebc
+message        : Microsoft.Storage/storageAccounts/listKeys/action
+hierarchy      : fc446ee6-ef72-455e-8faf-23133a84ac1b","Informational","01-09-2022 05:49:47","01-09-2022 05:48:49","End request","Administrative","Microsoft.Storage","List Storage Account Keys","Succeeded","OK (HTTP Status Code: 200)","adarshvyas99@gmail.com","","/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.Storage/storageAccounts/csg100320011b99bebc/events/23137bf4-534c-45f8-9f9b-6c7345c7b6bc/ticks/637976081295673282","23137bf4-534c-45f8-9f9b-6c7345c7b6bc","74a551fd-1b47-4b4f-bc1e-842b013f8cc2","cloud-shell-storage-centralindia","/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.Storage/storageAccounts/csg100320011b99bebc",,"74a551fd-1b47-4b4f-bc1e-842b013f8cc2","fc446ee6-ef72-455e-8faf-23133a84ac1b",
+"Authorization","Claims","HttpRequest","Properties","Level","SubmissionTimestamp","EventTimestamp","EventName","Category","ResourceProviderName","OperationName","Status","SubStatus","Caller","Description","Id","EventDataId","CorrelationId","ResourceGroupName","ResourceId","ResourceType","OperationId","SubscriptionId","TenantId"
+"
+Scope     : /subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/Container-Dev/providers/Microsoft.Resources/deployments/CreateVm-RedHat.RHEL-82gen2-20220831092945
+Action    : Microsoft.Resources/deployments/validate/action
+Role      : 
+Condition : ","
+aud            : https://management.core.windows.net/
+iss            : https://sts.windows.net/cf9c077a-e632-4207-b15b-38722439b3b3/
+iat            : 1661916708
+nbf            : 1661916708
+exp            : 1661921792
+http://schemas.microsoft.com/claims/authnclassreference: 1
+aio            : AWQAm/8TAAAA66d+KZzOBUELzAvvkTOAXpkwVHSgyq135UHZxTAYkwo1JFqDhvHq3/M9Oz2y/crC+w6V8SSiYGISv7Owfbls6VGH6Hayc3qWcq3xmrzv1yFXh766Z7iYVGOamtVrCVcb
+altsecid       : 1:live.com:0003BFFD03DD187C
+http://schemas.microsoft.com/claims/authnmethodsreferences: pwd,mfa
+appid          : c44b4083-3bb0-49c1-b47d-974e53cbdf3c
+appidacr       : 0
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress: adarshvyas99@gmail.com
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname: vyas
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname: Adarsh
+groups         : 5ad8365e-f9a4-4373-90fe-cf473210831a
+http://schemas.microsoft.com/identity/claims/identityprovider: live.com
+ipaddr         : 122.168.4.110
+name           : Adarsh vyas
+http://schemas.microsoft.com/identity/claims/objectidentifier: c152425a-d477-4707-8dd9-b79514587bb7
+puid           : 100320011B99BEBC
+rh             : 0.AXAAegeczzLmB0KxWzhyJDmzs0ZIf3kAutdPukPawfj2MBNwAEg.
+http://schemas.microsoft.com/identity/claims/scope: user_impersonation
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier: bnbrw7J5hhLxs5Idy-fZzRpSmYDt5rSuADcR1gqcpt8
+http://schemas.microsoft.com/identity/claims/tenantid: cf9c077a-e632-4207-b15b-38722439b3b3
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name: live.com#adarshvyas99@gmail.com
+uti            : 3iULwe1FHUSjMFnjEbo6AA
+ver            : 1.0
+wids           : 62e90394-69f5-4237-9190-012177145e10
+xms_tcdt       : 1614397532","
+ClientId        : d319c07e-8dd4-4096-bcde-c5c10505c0bb
+Method          : POST
+Url             : 
+ClientIpAddress : 122.168.4.110","
+statusCode     : BadRequest
+serviceRequestId: 
+statusMessage  : {""error"":{""code"":""InvalidTemplateDeployment"",""message"":""The template deployment 'CreateVm-RedHat.RHEL-82gen2-20220831092945' is not valid according to the validation procedure. The tracking id is '81f8e6de-1fa8-4d33-80d2-1e2990813d0a'. See inner errors for details."",""details"":[{""code"":""SkuNotAvailable"",""message"":""The requested VM size for resource 'Following SKUs have failed for Capacity Restrictions: Standard_D2s_v3' is currently not available in location 'CentralIndia'. Please try another size or deploy to a different location or different zone. See https://aka.ms/azureskunotavailable for details.""}]}}
+eventCategory  : Administrative
+entity         : /subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/Container-Dev/providers/Microsoft.Resources/deployments/CreateVm-RedHat.RHEL-82gen2-20220831092945
+message        : Microsoft.Resources/deployments/validate/action
+hierarchy      : fc446ee6-ef72-455e-8faf-23133a84ac1b","Error","31-08-2022 04:07:45","31-08-2022 04:06:17","End request","Administrative","Microsoft Resources","Validate Deployment","Failed","Bad Request (HTTP Status Code: 400)","adarshvyas99@gmail.com","","/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/Container-Dev/providers/Microsoft.Resources/deployments/CreateVm-RedHat.RHEL-82gen2-20220831092945/events/47a51451-b410-4346-9c68-cb1df9304d15/ticks/637975155775805793","47a51451-b410-4346-9c68-cb1df9304d15","2898105a-5cb2-47c8-af19-880206933840","Container-Dev","/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/Container-Dev/providers/Microsoft.Resources/deployments/CreateVm-RedHat.RHEL-82gen2-20220831092945",,"81f8e6de-1fa8-4d33-80d2-1e2990813d0a","fc446ee6-ef72-455e-8faf-23133a84ac1b",
+"Authorization","Claims","HttpRequest","Properties","Level","SubmissionTimestamp","EventTimestamp","EventName","Category","ResourceProviderName","OperationName","Status","SubStatus","Caller","Description","Id","EventDataId","CorrelationId","ResourceGroupName","ResourceId","ResourceType","OperationId","SubscriptionId","TenantId"
+"
+Scope     : /subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-1
+Action    : Microsoft.Resources/subscriptions/resourceGroups/write
+Role      : 
+Condition : ","
+aud            : https://management.core.windows.net/
+iss            : https://sts.windows.net/cf9c077a-e632-4207-b15b-38722439b3b3/
+iat            : 1661916708
+nbf            : 1661916708
+exp            : 1661921792
+http://schemas.microsoft.com/claims/authnclassreference: 1
+aio            : AWQAm/8TAAAA66d+KZzOBUELzAvvkTOAXpkwVHSgyq135UHZxTAYkwo1JFqDhvHq3/M9Oz2y/crC+w6V8SSiYGISv7Owfbls6VGH6Hayc3qWcq3xmrzv1yFXh766Z7iYVGOamtVrCVcb
+altsecid       : 1:live.com:0003BFFD03DD187C
+http://schemas.microsoft.com/claims/authnmethodsreferences: pwd,mfa
+appid          : c44b4083-3bb0-49c1-b47d-974e53cbdf3c
+appidacr       : 0
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress: adarshvyas99@gmail.com
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname: vyas
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname: Adarsh
+groups         : 5ad8365e-f9a4-4373-90fe-cf473210831a
+http://schemas.microsoft.com/identity/claims/identityprovider: live.com
+ipaddr         : 122.168.4.110
+name           : Adarsh vyas
+http://schemas.microsoft.com/identity/claims/objectidentifier: c152425a-d477-4707-8dd9-b79514587bb7
+puid           : 100320011B99BEBC
+rh             : 0.AXAAegeczzLmB0KxWzhyJDmzs0ZIf3kAutdPukPawfj2MBNwAEg.
+http://schemas.microsoft.com/identity/claims/scope: user_impersonation
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier: bnbrw7J5hhLxs5Idy-fZzRpSmYDt5rSuADcR1gqcpt8
+http://schemas.microsoft.com/identity/claims/tenantid: cf9c077a-e632-4207-b15b-38722439b3b3
+http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name: live.com#adarshvyas99@gmail.com
+uti            : 3iULwe1FHUSjMFnjEbo6AA
+ver            : 1.0
+wids           : 62e90394-69f5-4237-9190-012177145e10
+xms_tcdt       : 1614397532","
+ClientId        : 5f1bcb69-e334-4d6b-9eea-511b96881026
+Method          : PUT
+Url             : 
+ClientIpAddress : 122.168.4.110","
+statusCode     : Created
+serviceRequestId: 
+responseBody   : {""id"":""/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-1"",""name"":""test-1"",""location"":""centralindia"",""tags"":{""testing"":""""},""properties"":{""provisioningState"":""Succeeded""}}
+eventCategory  : Administrative
+entity         : /subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-1
+message        : Microsoft.Resources/subscriptions/resourceGroups/write
+hierarchy      : fc446ee6-ef72-455e-8faf-23133a84ac1b","Informational","31-08-2022 04:12:41","31-08-2022 04:11:16","End request","Administrative","Microsoft Resources","Update resource group","Succeeded","Created (HTTP Status Code: 201)","adarshvyas99@gmail.com","","/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-1/events/fd4f70ae-2371-4a1a-8e8b-1a79fe3246c2/ticks/637975158763956489","fd4f70ae-2371-4a1a-8e8b-1a79fe3246c2","f7b8939d-fa9d-472a-95cc-f36ae4821f82","test-1","/subscriptions/fc446ee6-ef72-455e-8faf-23133a84ac1b/resourceGroups/test-1",,"57811dd4-c55e-4cae-bed3-715f80b29fb5","fc446ee6-ef72-455e-8faf-23133a84ac1b",
